@@ -13,11 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>my-dubbo-service</name>
     <description>common dependencies</description>
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
+
     <dependencies>
-
     </dependencies>
-
 </project>

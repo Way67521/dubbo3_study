@@ -1,1 +1,6 @@
 
+server:
+  port: 52168
+
+logging:
+  config: classpath:logback.xml
